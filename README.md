@@ -1,2 +1,2 @@
-# My first readme
-## Git
+## My first readme
+Git project 
